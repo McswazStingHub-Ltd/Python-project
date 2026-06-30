@@ -1,0 +1,10 @@
+.env
+*.env
+__pycache__/
+*.pyc
+gemini-ai-assistant/.env
+gemini-ai-assistant/.env
+.env
+*.env
+__pycache__/
+*.pyc
